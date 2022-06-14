@@ -1,5 +1,10 @@
     import java.util.Scanner;
 
+
+    /*The purpose of this program is the compute the value of days, hours, minutes and seconds by a user input
+    in number of weeks.
+      ** Authors: Anthony Wright & Kyran Baker
+     */
 public class Weeks {
 
     public static void main(String[] args) {
