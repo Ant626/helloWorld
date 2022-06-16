@@ -1,6 +1,5 @@
     import java.util.Scanner;
 
-
     /*The purpose of this program is to compute the value of days, hours, minutes and seconds by a user input
       in number of weeks.
 
@@ -19,11 +18,8 @@ public class Weeks {
         int seconds = 60;
 
 
-
-
         //Number of Days
         System.out.println("Days " + days);
-
 
         //Number of Hours
         System.out.println("Hours: " + days * hours);
